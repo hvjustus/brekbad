@@ -1,5 +1,5 @@
 body{
-    padding: 50px;
+    padding-left: 25px;
     color: black;
     background-color: whitesmoke;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -18,6 +18,12 @@ input, button{
     border-color: black;
     color: black;
     border-radius: 12px;
+    
 }
+
+div{
+    color: red;
+}
+
 
 
