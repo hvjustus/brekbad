@@ -2,5 +2,20 @@ body{
     color: black;
     background-color: whitesmoke;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-align: center;
+    text-align: left;
 }
+
+label{
+    background-color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+}
+
+input{
+    size: 100px;
+    background-color: gainsboro;
+    border-color: black;
+    color: white;
+    border-radius: 12px;
+}
+
